@@ -143,3 +143,6 @@ v1.9.0 released 08/28/2018:
 * On Raspberry Pi running Android Things with HDMI output audio, beginning of speech is truncated when Alexa responds to user TTS.
 * When the sample app is restarted and network connection is lost, Alerts don't play.
 * When network connection is lost, lost connection status is not returned via local TTS.
+
+**Change Language**
+Start app and then press c and then enter to open the configuration
