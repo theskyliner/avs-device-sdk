@@ -206,7 +206,7 @@ then
     echo
 
     cd $SOURCE_PATH
-    git clone --depth 1 git://github.com:theskyliner/avs-device-sdk.git
+    git clone --depth 1 git://github.com/alexa/avs-device-sdk.git
   fi
 
   # make the SDK
